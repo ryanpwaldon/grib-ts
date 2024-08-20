@@ -1,0 +1,11 @@
+{
+  "name": "grib-ts",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tsc -w -p ."
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.4",
+    "typescript": "^5.2.2"
+  }
+}
